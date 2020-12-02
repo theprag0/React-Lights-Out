@@ -6,7 +6,7 @@ A replica of the popular 1995 electronic game 'Lights Out'. Built with React JS.
  ```
  npm install
  ```
-3. Start App
+3. Run Development Server
  ```
  npm start
  ```
